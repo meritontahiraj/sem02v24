@@ -1,1 +1,1 @@
-# sem02v24
+endring på README.md. # sem02v24
